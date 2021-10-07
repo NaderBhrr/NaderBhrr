@@ -5,7 +5,7 @@ My name is **Nader Bahrami** and my goal is to expand the trajectory of my caree
 
 My current learning path includes:
 
-- 🔭 I’m currently working on JavaScript stack specifically Node.js and React
+- 🔭 I’m implementing features in my daily work using JavaScript stack specifically **Node.js and React**
 - 🌱 I’m currently learning TypeScript, CSS new features, GraphQL
 - 👯 I’m looking to collaborate on large-scale project that help me grow as a developer.
 <!--  
